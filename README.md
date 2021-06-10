@@ -13,4 +13,4 @@ It has 2 levels:
 
 ## Steps to run locally
 
-1. Open the maingame.py using Python IDLE and run it
+1. Open the <code>maingame.py</code> using Python IDLE and run it
